@@ -1,5 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Lalit Mujalde !
 I'm a Web Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29">
+###[My Linkdin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="29">](https://www.linkedin.com/in/lalit-mujalde-592769239/) 
 
 <!--
 **LalitMujalde/LalitMujalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
