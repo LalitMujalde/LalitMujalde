@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Lalit Mujalde !
+I'm a Web Developer.
 
 <!--
 **LalitMujalde/LalitMujalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
